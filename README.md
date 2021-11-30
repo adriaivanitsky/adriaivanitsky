@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a collaborative problem-solver and I enjoy full-stack web design. I am also a multi instrumentalist! I like learning new technologies and working on diverse teams. I love working with others. Some of my strengths include excellent communication skills, adaptability, and using humor to create positive and inclusive work environments.
+
+• Languages: JavaScript, HTML/CSS
+• Frameworks/Libraries: React, jQuery, Bootstrap
+• Databases: ActiveRecord, PostgreSQL, Firebase
+• Tools: Git, Slack, GitHub
+• Dev Practices: TDD/BDD
