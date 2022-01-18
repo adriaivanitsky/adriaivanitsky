@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a collaborative problem-solver and I enjoy full-stack web design. I am also a multi instrumentalist! I like learning new technologies and working on diverse teams. I love working with others. Some of my strengths include excellent communication skills, adaptability, and using humor to create positive and inclusive work environments.
+I am an empathetic problem-solver and thoughtful communicator. I love people. Anything I lack in technical skill I make up for with curiosity, passion for learning, willingness to be wrong, adaptability, and a passion for community. As a lifelong musician I am excited to bring my creativity to a new field, and work together with others to bring ideas to life that would not have been possible alone.
 
 * Languages: JavaScript, HTML/CSS
 * Frameworks/Libraries: React, jQuery, Bootstrap
